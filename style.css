@@ -97,3 +97,28 @@ body {
 #titulo {
   font-family: Arial, sans-serif;
 }
+
+.contenedorContactos{
+    text-align: center;
+  }
+
+  .bloquecorreos{
+    display: inline-block;
+    width: 20%;
+    height: 60%;
+    background-color: lightblue;
+    text-align: center;
+    line-height: 100%;
+    margin-right: 0%;
+    border: 1px solid #000;
+  }
+  .bloque{
+    display: inline-block;
+    width: 10%;
+    height: 60%;
+    background-color: lightblue;
+    text-align: center;
+    line-height: 100%;
+    margin-right: 0%;
+    border: 1px solid #000;
+  }
