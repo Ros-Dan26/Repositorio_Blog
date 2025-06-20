@@ -77,3 +77,23 @@ body {
   height: auto;
   border-radius: 10px;
 }
+
+#CajaSobreNosotros {
+  background-color: #b8e0d2;
+  width: auto;
+  margin: auto; /* centra el div horizontalmente */
+  border: 2px solid #000;
+  padding: 20px;
+}
+
+#textcentrado {
+  width: 40%;              /* define un ancho para que pueda centrarse */
+  margin: 0 auto;          /* centra el div horizontalmente */
+  text-align: justify;     /* justifica el texto internamente */
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+}
+
+#titulo {
+  font-family: Arial, sans-serif;
+}
