@@ -5,7 +5,7 @@ html {
   
 main{
   width: 100%;
-  height: 100px;
+  height: 100%;
 }
 
 nav{
@@ -43,4 +43,37 @@ footer{
 
 #integrantes_piedepagina{
   margin: 0px 20px 0px 20px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+.contenedor {
+  max-width: 800px;
+  margin: 50px auto;
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.contenedor h1 {
+  color: #1e90ff;
+  margin-bottom: 20px;
+}
+
+.contenedor p {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.contenedor img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
 }
