@@ -3,3 +3,44 @@ html {
     width: 100%;
   }
   
+main{
+  width: 100%;
+  height: 100px;
+}
+
+nav{
+  position: fixed;
+  display: inline-block;
+  width: 100%;
+  height: auto;
+  background-color: aquamarine;
+}
+
+#Numero de elementos dividio por la pantalla
+nav ul{
+  display: inline-block;
+  width: 100%;
+  height: auto;
+}
+
+nav ul li{
+  display: inline-block;
+  width: 100px;
+  height: 50px;
+  margin: 0px 10%;
+}
+
+footer{
+  background-color: aquamarine;
+  width: 100%;
+  height: auto;
+  display: flex;
+}
+
+#contacto_piedepagina{
+  margin: 0px 20px 0px 20px;
+}
+
+#integrantes_piedepagina{
+  margin: 0px 20px 0px 20px;
+}
