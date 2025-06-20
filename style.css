@@ -3,6 +3,9 @@ html {
     width: 100%;
   }
   
+  .contenedor{
+    text-align: center;
+  }
 
   .bloquecorreos{
     display: inline-block;
